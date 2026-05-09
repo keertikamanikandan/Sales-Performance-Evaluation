@@ -96,6 +96,17 @@ Data Preparation:
 
 ## 📉 Visualisations
 
+### Product Performance Dashboard
+
+Shows Tech vs Non-Tech sales comparison.
+
+![Product Performance](images/product_performance.png)
+
+### Delivery and Customer Review Analysis Dashboard
+Displays delivery performance and customer satisfaction.
+
+![Delivery and Customer Review Analysis](images/delivery_analysis.png)
+
 ## 📈 Business Conclusion
 
 ### Is Magist a Suitable Partner for  ENIAC?
