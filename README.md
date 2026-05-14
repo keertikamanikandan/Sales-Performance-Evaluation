@@ -116,19 +116,20 @@ Data Preparation:
 
 ### Is Magist a Suitable Partner for  ENIAC?
 
-#### Strengths
+#### ✅ Strengths
 
-✅ Reliable delivery performance
-✅ Strong logistics capability
-✅ Large customer reach in Brazil
-✅ Positive customer satisfaction trends
+- ✅ Reliable delivery performance
+- ✅ Strong logistics capability
+- ✅ Large customer reach in Brazil
+- ✅ Positive customer satisfaction trends
 
-#### Concerns
+---
 
-⚠️ Lower demand for Tech products
-⚠️ Limited Tech-product seller ecosystem
-⚠️ Revenue concentrated in a few regions
+#### ⚠️ Concerns
 
+- ⚠️ Lower demand for Tech products
+- ⚠️ Limited Tech-product seller ecosystem
+- ⚠️ Revenue concentrated in a few regions
 ### Final Evaluation
 
 Magist demonstrates strong operational and logistics performance. However, the marketplace currently favours Non-Tech products more than ENIAC's Tech-focused business model.
@@ -140,7 +141,7 @@ The partnership could still be beneficial if ENIAC:
 - Target high-performing regions strategically
 
 ---
-# 🚀 How to Use This Project
+## 🚀 How to Use This Project
 
 1. Clone the repository
 
@@ -159,11 +160,11 @@ git clone <your-repository-link>
 
 ---
 
-# 🔗 Project Files
+## 🔗 Project Files
 
-- 📊 Tableau Workbook: `Tableau_workbook/MagistEval.twbx`
-- 🖥️ Presentation: `presentation/MagistEval.pptx`
-- 🗄️ SQL Queries: `querydata/magist_queries.sql`
 
+- [📊 Tableau Workbook](./Tableau_workbook/MagistEval.twbx)
+- [🖥️ Presentation](./presentation/MagistEval.pptx)
+- [🗄️ SQL Queries](./querydata/magist_queries.sql)
 ---
 
