@@ -82,10 +82,7 @@ Data Preparation:
 ## 📂 Project Structure
 
 ```text
-# 📦 ENIAC-Magist-Analysis
-
-## 📁 Project Structure
-
+📦 ENIAC-Magist-Analysis
 ├── 📂 Tableau_workbook
 │   └── MagistEval.twbx
 
