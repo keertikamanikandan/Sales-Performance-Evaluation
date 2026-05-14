@@ -49,14 +49,6 @@ Data Preparation:
 - Limited seller diversity may affect scalability.
 - High dependency on few sellers.
   
-### Geographical sales performance by region(Brazil)
-- Highest sales concentration observed in:
-  - Sao Paulo
-  - Rio de Janeiro
-  - Minas Gerais
-- Southern and Southeastern Brazil generate the majority of revenue.
-- Sales distribution is regionally concentrated.
-  
 ### Assess delivery reliability
 - Majority of orders delivered om time.
 - Some delays and unknown statuses observed.
@@ -66,6 +58,13 @@ Data Preparation:
 - Majority of customer reviews were positive.
 - Non-Tech products rceived substantially more reviews and purchases.
 - Tech products showed lower customer engagement.
+
+### Geographical Performance by Region(Brazil)
+
+- Sales are mainly concentrated in São Paulo, Minas Gerais, and Rio de Janeiro.
+- On-Time delivery performance is highest in the Southeast region.
+- Revenue and delivery efficiency are strongest in the South and Southeast regions (SP, MG, RJ, PR, RS).
+  
 
 ## 🛠️ Technologies Used
 
