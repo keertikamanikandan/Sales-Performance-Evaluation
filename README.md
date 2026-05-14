@@ -82,31 +82,36 @@ Data Preparation:
 ## 📂 Project Structure
 
 ```text
-📦 ENIAC-Magist-Analysis
- ├── 📂 data
- │    └── olist_dataset.csv
- ├── 📂 dashboard
- │    └── Tableau_Dashboard.twbx
- ├── 📂 sql
- │    └── SQL_queries.sql
- ├── 📂 presentation
- │    └── project_presentation.pptx
- ├── 📜 README.md
+# 📦 ENIAC-Magist-Analysis
+
+## 📁 Project Structure
+
+├── 📂 Tableau_workbook
+│   └── MagistEval.twbx
+
+├── 📂 presentation
+│   └── MagistEval.pptx
+
+├── 📂 querydata
+│   ├── magist_queries.sql
+│   └── magist_queries1.sql
+
+├── 📂 screenshot
+│   ├── dashboard1.png
+│   └── dashboard2.png
+
+└── 📜 README.md
+
 ```
+# 📸 Dashboard Visualizations
 
-## 📉 Visualisations
+## Sales & Revenue Dashboard
+![Dashboard 1](./screenshot/dashboard1.png)
 
-### Product Performance Dashboard
+## Customer & Delivery Analysis
+![Dashboard 2](./screenshot/dashboard2.png)
 
-Shows Tech vs Non-Tech sales comparison.
-
-![Product Performance](images/product_performance.png)
-
-### Delivery and Customer Review Analysis Dashboard
-Displays delivery performance and customer satisfaction.
-
-![Delivery and Customer Review Analysis](images/delivery_analysis.png)
-
+---
 ## 📈 Business Conclusion
 
 ### Is Magist a Suitable Partner for  ENIAC?
@@ -134,24 +139,31 @@ The partnership could still be beneficial if ENIAC:
 - Improve Tech product visibility
 - Target high-performing regions strategically
 
-## 🔗 How to Use This Project
+---
+# 🚀 How to Use This Project
 
-## 1. Dataset
-The dataset used for this analysis is available in the `/data` folder.
+1. Clone the repository
 
-## 2. SQL Analysis
-Run the SQL queries available in:
+```bash
+git clone <your-repository-link>
+```
 
-`/sql/SQL_queries.sql`
+2. Open the SQL files inside the `querydata` folder to explore the analysis queries.
 
-## 3. Tableau Dashboard
-Open the Tableau dashboard file in Tableau Desktop or Tableau Public:
+3. Open `MagistEval.twbx` in Tableau Desktop to interact with the dashboards.
 
-`/dashboard/Tableau_Dashboard.twbx`
+4. View the project presentation:
+   - `presentation/MagistEval.pptx`
 
-## 4. Presentation
-The business presentation and final insights are available in:
+5. Dashboard screenshots are available in the `screenshot` folder.
 
-`/presentation/project_presentation.pptx`
+---
 
+# 🔗 Project Files
+
+- 📊 Tableau Workbook: `Tableau_workbook/MagistEval.twbx`
+- 🖥️ Presentation: `presentation/MagistEval.pptx`
+- 🗄️ SQL Queries: `querydata/magist_queries.sql`
+
+---
 
