@@ -1,5 +1,9 @@
 # Evaluation of Magist for ENIAC Partnership
 
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
+![Status](https://img.shields.io/badge/Project-Completed-brightgreen)
+
 ## 🎯 Project Overview
 This project evaluates whether Magist is a suitable marketplace and logistics partner for ENIAC,focusing on product performance, seller availability, delivery reliability, geographical sales distribution, and customer satisfaction.
 The analysis compares Tech products and Non-Tech products to understand market demand,operational efficiency, and customer experience. Using SQL analysis and interactive Tableau dashboards, the project identifies whether Magist can effectively support ENIAC's business expansion in Brazil.
