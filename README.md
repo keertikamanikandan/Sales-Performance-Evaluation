@@ -1,4 +1,4 @@
-# Sales Performance Evaluation
+# E-commerce Sales Performance Analysis
 
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
@@ -85,7 +85,7 @@ Data Preparation:
 ## 📂 Project Structure
 
 ```text
-📦 Sales-Performance-Evaluation/
+📦 E-commerce-Sales-Performance-Analysis/
 ├── 📂 Tableau_workbook
 │   └── MagistEval.twbx
 
@@ -118,7 +118,7 @@ Data Preparation:
 ### 🔗 Step 1: Access the Project
 
 Click here to view the repository:  
-👉 [MagistEval GitHub Repository](https://github.com/keertikamanikandan-lab/Sales-Performance-Evaluation)
+👉 [MagistEval GitHub Repository](https://github.com/keertikamanikandan-lab/E-commerce-Sales-Performance-Analysis)
 
 ---
 
