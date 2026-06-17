@@ -1,4 +1,4 @@
-# Evaluation of Magist for ENIAC Partnership
+# Sales Performance Evaluation
 
 ![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Dashboard-orange)
@@ -85,7 +85,7 @@ Data Preparation:
 ## 📂 Project Structure
 
 ```text
-📦 ENIAC-Magist-Analysis
+📦 Sales-Performance-Evaluation/
 ├── 📂 Tableau_workbook
 │   └── MagistEval.twbx
 
@@ -118,7 +118,7 @@ Data Preparation:
 ### 🔗 Step 1: Access the Project
 
 Click here to view the repository:  
-👉 [MagistEval GitHub Repository](https://github.com/keertikamanikandan-lab/MagistEval)
+👉 [MagistEval GitHub Repository](https://github.com/keertikamanikandan-lab/Sales-Performance-Evaluation)
 
 ---
 
